@@ -21,6 +21,7 @@ public class Metoder {
         System.out.println(m.Sum3(8, 5, 10));
 
         indtastOgVisNavn("Michael");
+        hejAndy();
     }
     public Metoder(){
 
